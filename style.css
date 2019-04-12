@@ -1,0 +1,70 @@
+html {
+    background: #777
+    
+}
+
+h1 {
+    text-align: center;
+    background: r#ebebeb;
+    padding: 21px;
+    margin-bottom: inherit;
+    margin-inline-end: 100px;
+    margin-inline-start: 100px;
+    margin-top: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+nav {
+    text-align: center;
+    background: #ebebeb;
+    padding: 20px;
+    margin-inline-end: 100px;
+    margin-inline-start: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section {
+    Float: left;
+    padding: 35px;
+    background: #ebebeb;
+    margin-inline-start: 100px;
+    margin-top: inherit;
+    margin-right: -50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+article {
+    background: #777;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    background: #ebebeb;
+    padding: 40px 169px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+aside {
+    background: #ebebeb;
+    padding: 180px 150px;
+    float: right;
+    margin-right: 100px;
+    margin-top: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    background: #ebebeb;
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+    padding-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+footer {
+    background: #ebebeb;
+    margin-top: 405px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
